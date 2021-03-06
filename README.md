@@ -1,8 +1,5 @@
 # Text-Encryption-in-Image
 
-Image Processing - Project  Report
-
-
 Project Topic:Hiding text in image(Text to image encryption)
 
 Faculty Name: Dr. Devanjali Relan
