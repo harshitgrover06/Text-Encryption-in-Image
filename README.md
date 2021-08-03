@@ -2,10 +2,6 @@
 
 Project Topic:Hiding text in image(Text to image encryption)
 
-Faculty Name: Dr. Devanjali Relan
-
-Project Title: Hiding the Text in Image file- Image encryption
-
 Summary :
 
 The project introduces a program which can hide any text / numbers into a given image. This technique can be used for passing on secret messages among different agencies.
